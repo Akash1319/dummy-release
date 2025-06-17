@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Akash1319/dummy-release/compare/v1.0.3...v1.0.4) (2025-06-17)
+
+
+### Bug Fixes
+
+* trigger new release again ([c6f2e16](https://github.com/Akash1319/dummy-release/commit/c6f2e167279b987f78aea81ee207ac21154efcfa))
+
 ## [1.0.3](https://github.com/Akash1319/dummy-release/compare/v1.0.2...v1.0.3) (2025-06-17)
 
 
