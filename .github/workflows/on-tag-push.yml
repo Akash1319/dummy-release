@@ -2,7 +2,8 @@ name: On Tag Push
 
 on:
   push:
-    tags: ["v*"]
+    tags:
+      - "v*"
 
 jobs:
   print-tag:
