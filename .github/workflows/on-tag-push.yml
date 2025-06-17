@@ -5,6 +5,10 @@ on:
     tags:
       - "v*"
 
+permissions:
+  contents: read
+  actions: read
+
 jobs:
   print-tag:
     runs-on: ubuntu-latest
