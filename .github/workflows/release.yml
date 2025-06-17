@@ -28,4 +28,6 @@ jobs:
       - name: Run semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.FULL_ACCESS_TOKEN }}
+          GIT_COMMITTER_EMAIL: "akashsrivastava@yara.com"
+          GIT_COMMITTER_NAME: "Akash1319"
         run: npx semantic-release
