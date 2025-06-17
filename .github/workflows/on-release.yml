@@ -1,9 +1,9 @@
-name: On Tag Push
+name: On Release
 
 on:
-  push:
-    tags:
-      - "v*"
+  release:
+    types:
+      - published
 
 permissions:
   contents: read
@@ -20,4 +20,4 @@ jobs:
           echo "Tag: ${{ github.ref_name }}"
           echo "Commit: ${{ github.sha }}"
           echo "Repository: ${{ github.repository }}"
-          echo "Triggered by: Tag push event"
+          echo "Triggered by: Release event"
