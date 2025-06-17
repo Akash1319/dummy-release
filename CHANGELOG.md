@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Akash1319/dummy-release/compare/v1.0.1...v1.0.2) (2025-06-17)
+
+
+### Bug Fixes
+
+* adds full access toekn ([19c927b](https://github.com/Akash1319/dummy-release/commit/19c927b7fd13857e79750271fafe0b6ff2fbcb72))
+
 ## [1.0.1](https://github.com/Akash1319/dummy-release/compare/v1.0.0...v1.0.1) (2025-06-17)
 
 
